@@ -183,8 +183,9 @@ var ics = function(uidDomain, prodId) {
         'DTSTART;VALUE=DATE-TIME:' + start,
         'DTEND;VALUE=DATE-TIME:' + end,
         'LOCATION:' + location,
-        'SUMMARY;LANGUAGE=en-us:' + subject,
+        'SUMMARY;LANGUAGE=da-dk:' + subject,
         'TRANSP:TRANSPARENT',
+        'X-MICROSOFT-CDO-BUSYSTATUS:BUSY', //TODO: Make variable
         'END:VEVENT'
       ];
 
