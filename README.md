@@ -1,3 +1,8 @@
+DO NOT FORK THIS
+============
+This fork is itented for making small finetuning for my own projects. Use the original code from [Travis Krause](https://github.com/nwcell)
+
+
 ics.js
 ============
 
@@ -75,5 +80,5 @@ Supported Browsers
 
 Credits
 ------------------
-* [Travis Krause](https://github.com/nwcell): Me
+* [Travis Krause](https://github.com/nwcell): Author
 * [Kyle Hornberg](https://github.com/khornberg): Added multi event functionality and made everything a package firendly
